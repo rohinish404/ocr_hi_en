@@ -45,7 +45,10 @@ Prompt - **"Extract all english text and hindi text from the document"**
 
 ### **2. Installation Steps**
 
-1. **Unzip the file**.
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/rohinish404/ocr_hi_en.git
+   cd ocr_hi_en
 
 2. **Install Dependencies: Create and activate a virtual environment (optional but recommended)**:
    ```bash
